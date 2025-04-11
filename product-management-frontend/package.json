@@ -21,4 +21,11 @@
     "eslint": "^8.56.0",
     "eslint-plugin-vue": "^9.19.2"
   }
+  "scripts": {
+  "serve": "vue-cli-service serve",
+  "build": "vue-cli-service build",
+  "lint": "vue-cli-service lint",
+  "start": "serve -s dist"
+}
+
 }
