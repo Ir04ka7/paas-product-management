@@ -13,7 +13,6 @@
     "core-js": "^3.35.0",
     "vue": "^3.3.11",
     "vue-router": "^4.5.0"
-    "serve": "^14.2.0"   
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.8",
@@ -21,6 +20,7 @@
     "@vue/cli-plugin-router": "~5.0.8",
     "@vue/cli-service": "~5.0.8",
     "eslint": "^8.56.0",
-    "eslint-plugin-vue": "^9.19.2"
+    "eslint-plugin-vue": "^9.19.2",
+    "serve": "^14.2.0"
   }
 }
